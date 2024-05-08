@@ -30,4 +30,5 @@ Way 2:
 
 The homepage of https://www.chainhao.com.tw/ will look like this at present.
 
-![Uploading image.png…]()
+![image](https://github.com/40843245/MongoDB/assets/75050655/10a61099-9266-4b9d-8268-4ef2da42865d)
+
